@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir dist ; marp src/slide-deck.md -o dist/slide-deck.html",
+    "build:slides": "mkdir dist ; marp src/slide-deck.md -o dist/slide-deck.html",
     "preview": "open dist/slide-deck.html",
-    "build:docs": "mkdir docs/ ; cp dist/slide-deck.html docs/index.html"
+    "build:docs": "mkdir docs/ ; cp dist/slide-deck.html docs/index.html",
+    "build:assets": "mkdir docs/assets ; cp src/assets/* docs/assets"
   },
   "keywords": [],
   "author": "",

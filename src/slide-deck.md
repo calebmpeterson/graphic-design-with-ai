@@ -30,7 +30,7 @@ section.centered {
 }
 </style>
 
-![bg left:50% 100%](../assets/ai-and-you.png)
+![bg left:50% 100%](./assets/ai-and-you.png)
 
 # **AI, Graphic Design, and You**
 
@@ -38,7 +38,7 @@ An introduction to AI-enabled graphic design.
 
 ---
 
-![bg right:50% 100%](../assets/about-me.png)
+![bg right:50% 100%](./assets/about-me.png)
 
 # Introduction
 
@@ -62,7 +62,7 @@ I've helped with the **graphic design** for our son's upcoming children's book s
 
 <!-- _class: centered -->
 
-![bg right:50% 100%](../assets/no-ai-takeover.png)
+![bg right:50% 100%](./assets/no-ai-takeover.png)
 
 ## AI isn't coming to take our jobs&hellip;
 
@@ -70,13 +70,13 @@ I've helped with the **graphic design** for our son's upcoming children's book s
 
 <!-- _class: centered -->
 
-![bg left:50% 100%](../assets/ai-literacy.png)
+![bg left:50% 100%](./assets/ai-literacy.png)
 
 ## but the people who know how to use might be.
 
 ---
 
-![bg right:50% 100%](../assets/foundation.png)
+![bg right:50% 100%](./assets/foundation.png)
 
 # Foundation
 
@@ -84,7 +84,7 @@ While AI tools may dazzle with novelty, the heart of graphic design remains the 
 
 ---
 
-![bg](../assets/experimental-mindset.png)
+![bg](./assets/experimental-mindset.png)
 
 # Mindset
 
@@ -102,7 +102,7 @@ While AI tools may dazzle with novelty, the heart of graphic design remains the 
 
 ---
 
-![bg](../assets/handoff.png)
+![bg](./assets/handoff.png)
 
 # Collaboration
 
@@ -120,7 +120,7 @@ While AI tools may dazzle with novelty, the heart of graphic design remains the 
 
 ---
 
-![bg left:50% 100%](../assets/human-touch.png)
+![bg left:50% 100%](./assets/human-touch.png)
 
 # Human in the Loop
 
@@ -128,7 +128,7 @@ Transitioning from AI to final edits: adding a human touch.
 
 ---
 
-![bg right:50% 100%](../assets/janky-highfive-1.png)
+![bg right:50% 100%](./assets/janky-highfive-1.png)
 
 **AI Gets You 80% There—You Bring the Last 20%**
 
@@ -138,7 +138,7 @@ Use generative outputs as a strong starting point, then apply your design instin
 
 ---
 
-![bg right:50% 100%](../assets/janky-highfive-2.png)
+![bg right:50% 100%](./assets/janky-highfive-2.png)
 
 **Recognize When “Good Enough” Isn’t Enough**
 
@@ -148,7 +148,7 @@ While AI can produce impressive results, final edits ensure precision in typogra
 
 ---
 
-![bg right:50% 100%](../assets/janky-highfive-3.png)
+![bg right:50% 100%](./assets/janky-highfive-3.png)
 
 **Treat AI as a Drafting Assistant, Not the Author**
 
@@ -158,7 +158,7 @@ Take control once the core idea is clear—your hands-on refinement turns rough 
 
 ---
 
-![bg left:50% 100%](../assets/multimodal.png)
+![bg left:50% 100%](./assets/multimodal.png)
 
 # Going Multimodal
 
@@ -166,7 +166,7 @@ Multimodal AI tools process and generate both text and images, bridging visual a
 
 ---
 
-![bg right:50% 100%](../assets/robot-inspection.png)
+![bg right:50% 100%](./assets/robot-inspection.png)
 
 ## Looking for a starting point?
 
@@ -174,7 +174,7 @@ Multimodal models like **GPT-4o** can analyze existing images too!
 
 ---
 
-![bg left:50% 100%](../assets/eureka.png)
+![bg left:50% 100%](./assets/eureka.png)
 
 ## Ask the AI!
 
@@ -184,7 +184,7 @@ Start with a reference image, ask the model to describe it, then tweak that desc
 
 ---
 
-![bg](../assets/ai-tools.png)
+![bg](./assets/ai-tools.png)
 
 # Tools
 
