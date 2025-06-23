@@ -30,23 +30,23 @@ section.centered {
 }
 </style>
 
-![bg left:50% 100%](./assets/ai-and-you.png)
+![bg left](./assets/ai-and-you.png)
 
-# **AI, Graphic Design, and You**
+# **Graphic Design, AI, and You**
 
 An introduction to AI-enabled graphic design.
 
 ---
 
-![bg right:50% 100%](./assets/about-me.png)
+![bg right](./assets/about-me.png)
 
-# Introduction
+#### About Me
 
 <hr/>
 
 I'm a **software engineer** and **cinematographer**.
 
-I've done the **graphic design** for my wife's piano albums.
+I've done the **graphic design** for many of my wife's piano albums.
 
 I've helped with the **graphic design** for our son's upcoming children's book series.
 
@@ -56,13 +56,7 @@ I've helped with the **graphic design** for our son's upcoming children's book s
 
 <!-- _class: centered -->
 
-# This is an exciting time to get into graphic design!
-
----
-
-<!-- _class: centered -->
-
-![bg right:50% 100%](./assets/no-ai-takeover.png)
+![bg right:60%](./assets/no-ai-takeover.png)
 
 ## AI isn't coming to take our jobs&hellip;
 
@@ -70,17 +64,23 @@ I've helped with the **graphic design** for our son's upcoming children's book s
 
 <!-- _class: centered -->
 
-![bg left:50% 100%](./assets/ai-literacy.png)
+![bg left:60%](./assets/ai-literacy.png)
 
 ## but the people who know how to use might be.
 
 ---
 
-![bg right:50% 100%](./assets/foundation.png)
+![bg right](./assets/foundation.png)
 
 # Foundation
 
 While AI tools may dazzle with novelty, the heart of graphic design remains the same: **clear, purposeful communication**.
+
+---
+
+<!-- _class: centered -->
+
+**Having an understanding of the fundamental concepts of graphic design gives you an advantage.**
 
 ---
 
@@ -90,7 +90,7 @@ While AI tools may dazzle with novelty, the heart of graphic design remains the 
 
 ---
 
-# Iterative
+## Iterative
 
 <hr/>
 
@@ -108,29 +108,49 @@ While AI tools may dazzle with novelty, the heart of graphic design remains the 
 
 ---
 
-### Workflows
+<!-- _class: centered -->
 
-<hr/>
+![bg left](./assets/many-ideas.png)
 
-**Many Ideas, Human Refinement**: Use AI to rapidly generate diverse visual concepts, then step in to refine and finalize the strongest direction.
+### Many Ideas, Human Refinement
 
-**Focused Prompting, Iterative Editing**: Collaborate with AI across multiple passes—adjust prompts and tweak outputs progressively to shape a single, polished result.
-
-**One-Shot Simplicity**: For low-stakes, a single AI-generated image might be “good enough,” saving time without sacrificing clarity.
+Use AI to rapidly generate diverse visual concepts, then step in to refine and finalize the strongest direction.
 
 ---
 
-![bg left:50% 100%](./assets/human-touch.png)
+<!-- _class: centered -->
 
-# Human in the Loop
+![bg left](./assets/iteration.png)
+
+### Focused Prompting, Iterative Editing
+
+Collaborate with AI across multiple passes—adjust prompts and tweak outputs progressively to shape a single, polished result.
+
+---
+
+<!-- _class: centered -->
+
+![bg left](./assets/one-shot-winner.png)
+
+### One-Shot Simplicity
+
+For low-stakes, a single AI-generated image might be “good enough,” saving time without sacrificing clarity.
+
+---
+
+<!-- _class: centered -->
+
+![bg right](./assets/human-touch.png)
+
+## Human in the Loop
 
 Transitioning from AI to final edits: adding a human touch.
 
 ---
 
-![bg right:50% 100%](./assets/janky-highfive-1.png)
+![bg right](./assets/janky-highfive-1.png)
 
-**AI Gets You 80% There—You Bring the Last 20%**
+### AI Gets You 80% There—You Bring the Last 20%
 
 Use generative outputs as a strong starting point, then apply your design instincts to polish details, align with brand, and add human nuance.
 
@@ -138,9 +158,9 @@ Use generative outputs as a strong starting point, then apply your design instin
 
 ---
 
-![bg right:50% 100%](./assets/janky-highfive-2.png)
+![bg right](./assets/janky-highfive-2.png)
 
-**Recognize When “Good Enough” Isn’t Enough**
+### Recognize When “Good Enough” Isn’t Enough
 
 While AI can produce impressive results, final edits ensure precision in typography, composition, and visual storytelling that AI often overlooks.
 
@@ -148,9 +168,9 @@ While AI can produce impressive results, final edits ensure precision in typogra
 
 ---
 
-![bg right:50% 100%](./assets/janky-highfive-3.png)
+![bg right](./assets/janky-highfive-3.png)
 
-**Treat AI as a Drafting Assistant, Not the Author**
+### Treat AI as a Drafting Assistant, Not the Author
 
 Take control once the core idea is clear—your hands-on refinement turns rough inspiration into intentional, high-quality design.
 
@@ -158,25 +178,25 @@ Take control once the core idea is clear—your hands-on refinement turns rough 
 
 ---
 
-![bg left:50% 100%](./assets/multimodal.png)
+![bg left](./assets/multimodal.png)
 
-# Going Multimodal
+## Going Multimodal
 
 Multimodal AI tools process and generate both text and images, bridging visual and verbal creativity.
 
 ---
 
-![bg right:50% 100%](./assets/robot-inspection.png)
+![bg right](./assets/robot-inspection.png)
 
-## Looking for a starting point?
+### Looking for a starting point?
 
 Multimodal models like **GPT-4o** can analyze existing images too!
 
 ---
 
-![bg left:50% 100%](./assets/eureka.png)
+![bg left](./assets/eureka.png)
 
-## Ask the AI!
+### Ask the AI!
 
 Instead of guessing what to write, use multimodal AI to co-create prompts.
 
@@ -206,6 +226,17 @@ Start with a reference image, ask the model to describe it, then tweak that desc
 
 ---
 
+![bg right](./assets/practical-tips.png)
+
+# Practical Tips
+
+- Be aware of the length of each chat.
+- Experience leads to familiarity.
+- It's worth a modest investment now.
+- Use good manners.
+
+---
+
 # Conclusion
 
 <hr/>
@@ -213,4 +244,5 @@ Start with a reference image, ask the model to describe it, then tweak that desc
 This presentation was created with a lot of help from **AI**.
 
 - The outline was developed iteratively using **ChatGPT's voice mode** on my iPhone.
+- The messaging was heavily refined using **ChatGPT**
 - The images were generated with **ChatGPT 4o**'s multimodal capabilities.
